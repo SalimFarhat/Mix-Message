@@ -1,1 +1,2 @@
 # Mix-Message
+The purpose of this project is to make a simple mixed messages program that prints a message from an array for people to see. With a button that refreshes the message (but not the page) in order to see another message. To integrate some javascript with HTML.
